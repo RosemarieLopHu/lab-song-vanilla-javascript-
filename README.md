@@ -1,4 +1,4 @@
-# Lab songs con un framework
+# Lab songs con un vanilla javascript
 
 ## Objetivo
 
