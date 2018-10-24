@@ -1,4 +1,4 @@
-# Lab songs con un vanilla javascript
+# Lab songs con vanilla javascript
 
 ## Objetivo
 
