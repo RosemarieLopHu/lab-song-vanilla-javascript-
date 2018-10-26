@@ -2,10 +2,11 @@ img{
     width: 30px;
 }
 html{
-    background-color: #424242;
+    background-color: #343434;
 }
 .carousel{
-    padding: 20px;
+    padding: 30px;
+    height: auto;
     background-color: blueviolet;
 
 }
